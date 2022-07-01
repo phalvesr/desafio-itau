@@ -9,9 +9,9 @@ Opa, chegou aqui e não sabe do que precisa para executar o projeto? Tranquilo!!
 
 _Opcional_
 
-🐍 Python3 - Esse é opcional, você só vai precisar pra executar o script `start.py` e executar o `docker-compose` que vai subir o redis (cá entre nós, ele só vai dar um cd na past do arquivo e subir o container. Pode fazer na mão se quiser). Caso não tenha o python instalado pode baixar neste [link](https://www.python.org/).
+🐍 Python3 - Você só vai precisar pra executar o script `start.py` e executar o `docker-compose` que vai subir o redis (cá entre nós, ele só vai dar um cd na past do arquivo e subir o container. Pode fazer na mão se quiser). Caso não tenha o python instalado pode baixar neste [link](https://www.python.org/).
 
-⚡Para visualizar o conteúdo sendo salvo no seu redis eu aconselho uma ferramenta **_grátis_** chamada _Another Redis Desktop Manager_. Você baixar ela (e deixar sua estrela no projeto 😉) neste link [aqui](https://github.com/qishibo/AnotherRedisDesktopManager).
+⚡Para visualizar o conteúdo sendo salvo no seu redis eu aconselho uma ferramenta **_grátis_** chamada _Another Redis Desktop Manager_. Você pode baixar ela (e deixar sua estrela no projeto 😉) neste link [aqui](https://github.com/qishibo/AnotherRedisDesktopManager).
 
 🗃️ Para visualizar as modificações sendo salvas no banco você pode utilizar uma aplica bem leve, portátil e **_grátis_** chamada SqliteStudio. Pode fazer o download por [aqui](https://sqlitestudio.pl/).
 
