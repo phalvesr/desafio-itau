@@ -35,6 +35,6 @@ A terceira chave é a `OmdbApiKey` nela você precisa inserir uma key valida da 
 
 #### Roodaaando a aplicação🎤
 
-Agora, o jeito mais simples é abrir as soluções no seu visual studio e clicar no icone de executar no topo da tela, maaass se você é do tipo que não gosta de IDE, pode também abrir a pasta das aplicações no seu terminal e executar o comando `dotnet restore` (que vai restaurar as dependencias do projeto) e depois um `dotnet run` (vai executar o seu projeto em modo não release, mas deve ser o suficiente para testar). É importante seguir estes passos nas duas aplicações.
+Agora, o jeito mais simples é abrir as soluções no seu visual studio e clicar no icone de executar no topo da tela, maaass se você é do tipo que não gosta de IDE, pode também abrir a pasta das aplicações no seu terminal e executar o comando `dotnet restore` (que vai restaurar as dependencias do projeto) e depois um `dotnet run` (vai executar o seu projeto em modo não release, mas deve ser o suficiente para testar). É importante seguir estes passos nas duas aplicações. Assim que a aplicação subir, basta navegar até a url (/swagger para ver a documentação).
 
 Finalmente... Muito Obrigado!!
